@@ -19,7 +19,7 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of the ref
 
 ## App Preview
 
-<img src="https://github.com/py415/app-resources/blob/master/web/Dicee/dicee-full-screen.png">
+<img src="https://github.com/py415/app-resources/blob/master/web/dicee/dicee-full-screen.png">
 
 ## Credits
 
