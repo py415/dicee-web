@@ -1,26 +1,26 @@
-# Dicee
+# 🎲 Dicee
 
-## Table of Contents
-1. [Overview](#Overview)
-2. [Product Specs](#Product-Specs)
-3. [App Preview](#App-Preview)
-4. [Credits](#Credits)
+## 📋 Table of Contents
+1. [Overview](#-Overview)
+2. [Product Specs](#-Product-Specs)
+3. [App Preview](#-App-Preview)
+4. [Credits](#-Credits)
 
-## Overview
+## 👀 Overview
 ### Description
 
 Dicee is a Las Vegas dice app. You can make the die roll at the press of the refresh button on your browser. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
-## Product Specs
+## 📕 Product Specs
 ### User Stories
 
 - [x] User shall be able to click the refresh button on the browser and roll the dice.
 - [x] User shall be able to see the title element dynamically change upon refresh to show who the winner is.
 
-## App Preview
+## 🎬 App Preview
 
-<img src="https://github.com/py415/app-resources/blob/master/web/dicee/dicee-full-screen.png">
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/3.%20dicee-full-screen.png">
 
-## Credits
+## 💳 Credits
 
 > This is a companion project to The Complete Web Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
